@@ -18,17 +18,9 @@
 
 - 💬 Ask me about **hardware of computers & smartphones**
 
-- 📫 How to reach me **mahdiyaganeh879@gmail.com**
+- 📫 How to reach me **mahdiyeganeh258@gmail.com**
 
 - ⚡ Fun fact **I love to know about technology & nature**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush masoom babaei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soroushmb" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="protechbites" height="30" width="40" /></a>
-</p>
 
 ## Brands:
 
